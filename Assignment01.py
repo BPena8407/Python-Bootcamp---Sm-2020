@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+#Bielka Pena
 '''
 #Challenge 1: Temperature conversion
 print("Temperature conversion.")
@@ -111,36 +112,4 @@ elif year % 400 == 0 or year % 100 != 0 and year % 4 == 0:
 else:
     print(f"In the {year}, the day of the programer is 09.13")
 '''  
-
-   
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
